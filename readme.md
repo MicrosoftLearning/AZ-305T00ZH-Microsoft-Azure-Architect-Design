@@ -1,4 +1,4 @@
-﻿# AZ-305：设计 Microsoft Azure 基础结构解决方案
+# AZ-305：设计 Microsoft Azure 基础结构解决方案
 
 - **[案例研究的链接（HTML 格式）](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)**
 - **你是 MCT 吗？** - 请查看[适用于 MCT 的 GitHub 用户指南](https://microsoftlearning.github.io/MCT-User-Guide-ZH/)
