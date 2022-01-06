@@ -1,4 +1,4 @@
-﻿---
+---
 title: 联机托管说明
 permalink: index.html
 layout: home
