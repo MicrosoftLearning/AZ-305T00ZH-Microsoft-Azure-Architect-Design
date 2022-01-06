@@ -1,4 +1,4 @@
-﻿---
+---
 casestudy:
     title: '可选案例研究：Fabrikam Residences'
     module: '可选案例研究：Fabrikam Residences'
