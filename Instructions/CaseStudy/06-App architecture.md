@@ -21,7 +21,7 @@ Tailwind Traders 希望更新他们的网站，除了市场部门已经提供的
 
  
 
-![应用体系结构](/media/Apparchitecture.png)
+![应用体系结构](media/Apparchitecture.png)
 
  
 
