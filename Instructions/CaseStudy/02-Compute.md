@@ -1,4 +1,4 @@
-﻿---
+---
 casestudy:
     title: '设计计算解决方案'
     module: '计算解决方案'

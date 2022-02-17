@@ -1,4 +1,4 @@
-﻿---
+---
 casestudy:
     title: '无正式的案例研究'
     module: '迁移解决方案'

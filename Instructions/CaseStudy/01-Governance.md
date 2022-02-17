@@ -1,4 +1,4 @@
-﻿---
+---
 casestudy:
     title: '设计治理解决方案'
     module: '治理解决方案'
